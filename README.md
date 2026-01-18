@@ -47,7 +47,7 @@ AI 漫剧的技术栈迭代是以“周”为单位的。本 GitHub 仓库存储
 
 | 扫描下方二维码添加个人微信 【fenggeliaoai】| 入群须知 |
 | :--- | :--- |
-| <img src="https://github.com/fenggeliaoai/AIpormt/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260117182959_127_107.jpg" width="250" alt="扫码进入AI漫剧工业化实验室"/>| **备注：** 加我时请备注 **`AI漫剧`**<br>**门槛：** 群里会分享最新的AI漫剧玩法，也有有很多高手，**群公告里有完整的AI漫剧制作流程教学和一些能批量做漫剧的免费软件**。 |
+| <img src="https://github.com/fenggeliaoai/AIPrompts/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260117182959_127_107.jpg" width="250" alt="扫码进入AI漫剧工业化实验室"/>| **备注：** 加我时请备注 **`AI漫剧`**<br>**门槛：** 群里会分享最新的AI漫剧玩法，也有有很多高手，**群公告里有完整的AI漫剧制作流程教学和一些能批量做漫剧的免费软件**。 |
 
 ---
 
